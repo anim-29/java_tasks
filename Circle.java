@@ -1,6 +1,3 @@
-package com.anim.java;
-
-
 import java.util.Scanner;
 		
 public class Circle 
