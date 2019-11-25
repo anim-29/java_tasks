@@ -1,4 +1,3 @@
-package com.anim.java;
 import java.util.Scanner;
 public class smallest {
 	public static void main(String[] args)
