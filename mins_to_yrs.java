@@ -1,4 +1,3 @@
-package com.anim.java;
 import java.util.Scanner;
 public class mins_to_yrs {
 	public static void main(String[] Strings) {
