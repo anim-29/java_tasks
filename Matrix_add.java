@@ -1,4 +1,3 @@
-package com.anim.java;
 import java.util.Scanner;
 public class Matrix_add {
 	 public static void main(String args[])
