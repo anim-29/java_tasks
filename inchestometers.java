@@ -1,4 +1,3 @@
-package com.anim.java;
 import java.util.Scanner;
 public class inchestometers {
 	public static void main(String[] Strings) {
